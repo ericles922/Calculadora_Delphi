@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/12/12 15:26:56.000.065,=C:\Users\Suporte\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/12/12 15:39:05.000.821,C:\Users\Suporte\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Suporte\Documents\Embarcadero\Studio\Projects\projectocalculadora.dfm</Transaction>
+    <Transaction>2023/12/12 15:39:05.000.820,C:\Users\Suporte\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Suporte\Documents\Embarcadero\Studio\Projects\projectocalculadora.pas</Transaction>
+    <Transaction>2023/12/12 15:39:12.000.531,C:\Users\Suporte\Documents\Embarcadero\Studio\Projects\Project2.dproj=C:\Users\Suporte\Documents\Embarcadero\Studio\Projects\projectcalculadora.dproj</Transaction>
+    <Transaction>2024/04/18 16:21:02.000.937,=C:\Users\Suporte\Documents\Embarcadero\Studio\Projects\ModelSupport_projectcalculadora\default.txaPackage</Transaction>
+  </Transactions>
+</BorlandProject>
